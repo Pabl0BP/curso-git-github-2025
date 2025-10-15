@@ -3,3 +3,9 @@
 Um curso para aprender a trabalhar com versionamento de código e repositórios remotos com Github.
 
 Alem disso, trabalhar com GitFlow e VS Code.
+
+----
+
+Pessoas participantes:
+
+- Pablo
